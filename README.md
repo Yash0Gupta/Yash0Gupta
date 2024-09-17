@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 🙋‍♂️, My name is Yash Gupta<br>👨‍💻 Interested in Machile Leaning, BlockChain, entrepreneurship, Web Dev and App dev<br>📖 Student at BMS College of Engineering, Bangalore<br>🔭 Currently working on a blochchain based architecture for distributed ML model training<br>🤝 Open to Collaborations in areas related to blockChain, web-app dev<br>⚡Fun Fact : I'm a Karate BlackBelt 🥋
+Hi 🙋‍♂️, My name is Yash Gupta<br>👨‍💻 Interested in Machile Leaning, BlockChain, entrepreneurship, Web Dev and App dev<br>📖 CSE Student at BMS College of Engineering, Bangalore<br>🔭 Currently working on a blochchain based architecture for distributed ML model training<br>🤝 Open to Collaborations in areas related to AI-ML, blockChain, web-app dev<br>⚡Fun Fact : I'm a Karate BlackBelt 🥋
 
 
 ## 🌐 Socials:
